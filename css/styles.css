@@ -679,7 +679,7 @@ width: 206px;
 
 .first-section-icons{
     display: flex;
-    padding: 25px;
+    align-items: center;
     justify-content: center;
     height: 120px;
     width: 270px;
