@@ -666,7 +666,7 @@ width: 206px;
 .first-section{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 1170px;
     height: 251px;
     flex-shrink: 0; 
@@ -679,7 +679,7 @@ width: 206px;
 
 .first-section-icons{
     display: flex;
-    padding: 25px 100px;
+    padding: 25px;
     justify-content: center;
     height: 120px;
     width: 270px;
@@ -755,6 +755,7 @@ width: 206px;
     display: flex;
     flex-direction: row;
     gap: 30px;
+    height: 294px;
     margin-left: auto;
     margin-right: auto;
 }
